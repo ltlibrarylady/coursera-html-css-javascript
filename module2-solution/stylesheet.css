@@ -8,5 +8,14 @@ h1 {
 	text-size: 180%;
 }
 body {
-	background-color: #f0f0f5; 
+	background-color: #e0e0b5; 
+}
+ #box1, #box2, #box3 {
+	position: relative;
+	border-width: 1px;
+	border-color: #cc0000;
+	width: 300px;
+	height: 50px;
+	padding-top: 10px;
+	overflow: auto;
 }
