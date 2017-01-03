@@ -1,12 +1,11 @@
 * {
 	box-sizing: border-box;
 	font-family: "Arial Black", Gadget, sans-serif;
-	color: #b3b3b3;
 }
 h1 {
 	text-align: center;
-	text-size: 180%;
-	text-color: #000000;
+	size: 180%;
+	color: #000000;
 	margin-bottom: 30px;
 }
 body {
@@ -14,7 +13,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
- #box1, #box2, #box3 {
+ #box1 {
  	background-color: #ffffff;
 	position: relative;
 	border: 3px solid #ff0000;
