@@ -5,7 +5,8 @@
 }
 h1 {
 	text-align: center;
-	text-size: 2rem;
+	text-size: 180%;
+	text-color: #000000;
 	margin-bottom: 30px;
 }
 body {
@@ -13,7 +14,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
- #box1 {
+ #box1, #box2, #box3 {
  	background-color: #ffffff;
 	position: relative;
 	border: 3px solid #ff0000;
