@@ -11,6 +11,7 @@ body {
 	background-color: #e0e0b5; 
 }
  #box1, #box2, #box3 {
+ 	background-color: #ffffff;
 	position: relative;
 	border-width: 1px;
 	border-color: #cc0000;
