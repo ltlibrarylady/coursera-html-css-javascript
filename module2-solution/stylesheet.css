@@ -8,9 +8,9 @@ h1 {
 	text-size: 180%;
 }
 body {
-	background-color: #e0e0b5; 
+	background-color: #b3b3b3; 
 }
- #box1, #box2, #box3 {
+ #box1 {
  	background-color: #ffffff;
 	position: relative;
 	border-width: 1px;
@@ -19,4 +19,5 @@ body {
 	height: 50px;
 	padding-top: 10px;
 	overflow: auto;
+	margin: 30px;
 }
