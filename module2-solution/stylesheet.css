@@ -17,7 +17,7 @@ body {
  	background-color: #ffffff;
 	position: relative;
 	border: 10px solid #cc0000;
-	width: 200px;
+	width: 100%;
 	height: 150px;
 	overflow: auto;
 	float: left;
@@ -91,7 +91,6 @@ body {
   .col-lg-12 {
     width: 100%;
   }
-
 }
 
   
