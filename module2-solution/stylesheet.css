@@ -20,8 +20,6 @@ body {
 	width: 100%;
 	height: 150px;
 	overflow: auto;
-	margin: 30px;
-	float: left;
 }
 
 .title {
