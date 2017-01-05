@@ -46,8 +46,9 @@ body {
 	margin-top: 25px;
 }
 /*desktop*/
-@media (min-width: 99xpx) {
-	box {
+@media (min-width: 992px) {
+	#box1, #box2, #box3 {
 		width: 33%;
 	}
 }
+	
