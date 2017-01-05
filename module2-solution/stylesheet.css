@@ -21,7 +21,7 @@ body {
 	height: 150px;
 	overflow: auto;
 	float: left;
-	padding: 12px;
+	margin: 10px;
 }
 
 .title {
