@@ -10,14 +10,14 @@ h1 {
 body {
 	background-color: #b3b3b3; 
 	margin: 0;
-	padding: 0;
+	padding: 10;
 }
 
 #box1, #box2, #box3 {
  	background-color: #ffffff;
 	position: relative;
 	border: 10px solid #cc0000;
-	width: 300px;
+	width: 300;
 	height: 150px;
 	overflow: auto;
 	float: left;
