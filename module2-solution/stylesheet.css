@@ -1,6 +1,7 @@
 * {
 	box-sizing: border-box;
 	font-family: "Arial Black", Gadget, sans-serif;
+	padding: 10px;
 }
 h1 {
 	text-align: center;
