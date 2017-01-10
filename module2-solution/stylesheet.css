@@ -59,6 +59,7 @@ body {
     width: 30%;
     float: left;
   }
+}
   
 
   
@@ -66,7 +67,7 @@ body {
 
 /*tablet*/
 @media (min-width: 768px) and (max-width: 991px) {
-	#box1, #box2 .col-md-6 {
+	.col-md-6 {
 		float: left;
 		width: 50%;
 	}
