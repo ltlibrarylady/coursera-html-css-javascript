@@ -66,14 +66,11 @@ body {
 
 /*tablet*/
 @media (min-width: 768px) and (max-width: 991px) {
-	#box1, #box2, #box3 {
-		display: inline-block;
-	} 
-	#box1, #box2 {
-		width: 45%;
+	.col-md-6 {
+		width: 50%;
 		float: left;
 	}
- 	#box3 {
+ 	.col-md-12 {
  		width: 100%;
  	}
  }
